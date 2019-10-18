@@ -5,9 +5,28 @@
 This project is downloaded from Checkmarx knowledge center [[2]], and the repository includes several branches to illustrate incremental scanning with Checkmarx CxSAST.
 
 ***
-## Branch
-- Fix 1
-- Fix 2
+## Git repository branch
+- [Master](tree/master)
+Original version
+
+- [Fix_1](tree/Fix_1)
+Version with some XSS vulnerabilities resolved
+
+- [Fix_2](tree/Fix_2)
+Version with XSS and SQLi vulnerabilities resolved
+
+## Pre-requsites
+o	CxSAST 8.9: port 80
+o	Java 1.8
+o	Chrome browser
+
+## Lab Objectives
+1.	Create first project interfacing with GIT SCM using source pulling
+2.	Execute incremental scan with a GIT branch
+3.	Compare scans
+4.	Experience incremental scan fail due to exceeding threshold.
+
+
 
 ## References
 CxSAST Quick Start [[1]]  
