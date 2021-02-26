@@ -16,9 +16,9 @@ Version with some XSS vulnerabilities resolved
 Version with XSS and SQLi vulnerabilities resolved
 
 ## Pre-requsites
-o	CxSAST 8.9: port 80
-o	Java 1.8
-o	Chrome browser
+-	CxSAST 8.9: port 80
+-	Java 1.8
+-	Chrome browser
 
 ## Lab Objectives
 1.	Create first project interfacing with GIT SCM using source pulling
