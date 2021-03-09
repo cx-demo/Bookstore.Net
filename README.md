@@ -4,7 +4,6 @@
 
 This project is downloaded from Checkmarx knowledge center [[2]], and the repository includes several branches to illustrate incremental scanning with Checkmarx CxSAST.
 
-
 ***
 ## Git repository branch
 - [Master](tree/master)
